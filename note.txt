@@ -1,0 +1,23 @@
+font-family: 'Roboto', sans-serif;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+color:
+blue: #0A5EE2
+deep blue: #101130
+deep deep blue: #053B8F
+black: #000001
+ash: #1F1F1F
+
+		Extra small
+30-  	20
+20		15
+24		18
+25		20
+16		14
+22		20
+48		22
+70		40
+55		30
+50		30
+60		35
